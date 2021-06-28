@@ -174,7 +174,7 @@ function updateUserValues(){
     },
   });
 
-  payload = JSON.parse(payload);
+  // payload = JSON.parse(payload);
   // Object.keys(payload).forEach(function(key) {
   //   console.log('Key : ' + key + ', Value : ' + payload[key])
   // })
