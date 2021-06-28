@@ -1,15 +1,15 @@
 //p14C Variables
-const environmentID = '5d354632-b644-4d3e-a32e-af055f215ef8'; // env ID from p1 console
-const baseUrl = 'https://morgdemo.ping-eng.com/sharep1ui'; //Where this app is hosted --> No trailing slash needed
+const environmentID = 'bbaad767-99e1-4385-a8d1-ad3dfea52ccc'; // env ID from p1 console
+const baseUrl = 'https://morgdemo.ping-eng.com/healthcare'; //Where this app is hosted --> No trailing slash needed
 
-const workerClientID = '7e80217e-4283-4bf1-830f-ea6bc2fdf4ec'; //used to create/manage users
+const workerClientID = '410cf40a-4dbb-4b99-88ee-1df09eef4896'; //used to create/manage users
 //const workerClientSecret = 'UYPFyy6jOIL8HPKTqDgtmz.uqTNyrhP7MY63kMUgqq_G3~VzIuV.qU2sREl86TiO';
 
-const appClientID = '153f06e7-b750-447c-8626-cd90d992bcc2'; //used for enduser logon experience
+const appClientID = '3d21c48b-e63a-4063-9abd-c4f4173bc62f'; //used for enduser logon experience
 //const appClientSecret ='O6KAnh~0cYTbP5QPeib~XmK8979QlDHl4amUEiWsB~5k1oRrzCUGJf4G79pzyCUi'; //used for out of band transaction approvals
 
 //const agentClientID ='fec0bfde-63b0-4256-bff7-46105dbd2497'; //user for agent/admin logon experience
-const agentClientID ='7e80217e-4283-4bf1-830f-ea6bc2fdf4ec'; //user for agent/admin logon experience
+//const agentClientID ='7e80217e-4283-4bf1-830f-ea6bc2fdf4ec'; //user for agent/admin logon experience
 
 //----------------------------------------------------------------------------------------------------//
 
