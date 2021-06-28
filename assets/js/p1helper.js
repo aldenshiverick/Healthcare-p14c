@@ -1,6 +1,6 @@
 //p14C Variables
 const environmentID = 'bbaad767-99e1-4385-a8d1-ad3dfea52ccc'; // env ID from p1 console
-const baseUrl = 'https://morgdemo.ping-eng.com/healthcare'; //Where this app is hosted --> No trailing slash needed
+const baseUrl = 'https://morgdemo.ping-eng.com/Healthcare-p14c/'; //Where this app is hosted --> No trailing slash needed
 
 const workerClientID = '410cf40a-4dbb-4b99-88ee-1df09eef4896'; //used to create/manage users
 //const workerClientSecret = 'UYPFyy6jOIL8HPKTqDgtmz.uqTNyrhP7MY63kMUgqq_G3~VzIuV.qU2sREl86TiO';
